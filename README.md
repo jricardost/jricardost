@@ -1,15 +1,16 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous" />
+# Hello there! 👋
 
-## Hello there! 👋
-  I'm João Ricardo, passionate developer and undergraduate student in Information Systems at Instituto Federal de Minas Gerais. Here you'll find a few projects i'm working on.
+###  My name is João Ricardo, a self-taught software developer and undergraduate student in Information Systems at Instituto Federal de Minas Gerais (Brasil).</br>I'm passionate about bringing ideas to life with some code! Here you'll find a few projects i'm working on.
+
 <div>
   <a href="https://github.com/jricardost">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jricardost&layout=compact&langs_count=7&theme=default"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jricardost&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jricardost&layout=compact&langs_count=7&theme=default&hide_title=true"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jricardost&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_title=true"/>
+  </a>
 </div>
-</br>
 
-## Desktop
+## And some technologies i've learned
+### Programming languages:
 <div>
   <img loading="lazy" width="72px" height="72px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title="C"/>
   <img loading="lazy" width="72px" height="72px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" />
@@ -17,7 +18,7 @@
   <img loading="lazy" width="72px" height="72px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" />
 </div>
 
-## Web:
+### Web:
 <div>
   <img loading="lazy" width="72px" height="72px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5" />
   <img loading="lazy" width="72px" height="72px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS3" />
@@ -28,7 +29,7 @@
   <img loading="lazy" width="72px" height="72px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" />
 </div>
 
-## Frameworks
+### Frameworks:
 <div>
   <img loading="lazy" width="72px" height="72px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" title="Angular" />
   <img loading="lazy" width="72px" height="72px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" />
@@ -37,10 +38,23 @@
   <img loading="lazy" width="72px" height="72px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" title="NextJS" />
 </div>
 
-## And some other fun stuff
+### And some other fun stuff:
 <div>
   <img loading="lazy" width="72px" height="72px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/processing/processing-original-wordmark.svg" title="Processing3" />
   <img loading="lazy" width="72px" height="72px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" title="OpenGL"/>
   <img loading="lazy" width="72px" height="72px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" title="Arduino" />
   <img loading="lazy" width="72px" height="72px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VSCode" />
+</div>
+<br>
+
+
+### Contact me!
+<div>
+  <a href="https://instagram.com/jricardost" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="laxy" src="https://img.shields.io/badge/Portfolio-%231E90FF?style=for-the-badge&logo=htmx&logoColor=white"></a>
+
+<!--   <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
+<!--   <a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
+<!--   <a href = "mailto:contato@seu-usuário-aqui"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
 </div>
