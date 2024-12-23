@@ -38,7 +38,7 @@
   <img loading="lazy" width="72px" height="72px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" title="NextJS" />
 </div>
 
-### And some other fun stuff:
+### Some other fun stuff:
 <div>
   <img loading="lazy" width="72px" height="72px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/processing/processing-original-wordmark.svg" title="Processing3" />
   <img loading="lazy" width="72px" height="72px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" title="OpenGL"/>
